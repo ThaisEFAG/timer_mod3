@@ -10,7 +10,7 @@
 
 # npm run dev (para startar o projeto)
 
-#
+# getbem.com/naming (evita sobreposições de css)
 
 #
 

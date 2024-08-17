@@ -14,7 +14,9 @@
 
 ### npm i "prop-types"
 
-### npm
+
+# npm install lucide-react
+
 
 #
 

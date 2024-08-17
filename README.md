@@ -12,7 +12,7 @@
 
 # getbem.com/naming (evita sobreposições de css)
 
-#
+# npm i "prop-types"
 
 #
 

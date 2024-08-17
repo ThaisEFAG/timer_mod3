@@ -1,8 +1,13 @@
+import { NewCycle } from "../../components/new-cycle";
+import { Timer } from "../../components/timer";
+
 export function HomePage() {
   return (
     <div>
-      <h1>Home Page</h1>
-      <div className="container--header"></div>
+      <div className="container--header">
+        <NewCycle />
+        <Timer />
+      </div>
     </div>
   );
 }

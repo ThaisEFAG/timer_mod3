@@ -5,8 +5,8 @@
   --box-on-shape: #29292e;
   --text: #e1e1e6;
   --line: #7c7c8a;
-  --purple-500: #292a94;
-  --pink-800: #292a94;
+  --purple-500: #6462eb;
+  --pink-800: #8f0656;
   --orange-500: #ec7815;
   --green-500: #299434;
 }
@@ -16,6 +16,10 @@
   padding: 0;
   outline: 0;
   box-sizing: border-box;
+}
+
+:focus {
+  box-shadow: 0 0 0 2px var(--purple-500);
 }
 
 body {
